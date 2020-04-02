@@ -1,0 +1,37 @@
+---
+title: A very waffly post about waffles
+author: ~
+date: '2020-04-02'
+slug: a-very-waffly-post-about-waffles
+categories: []
+tags: []
+---
+
+I want to talk about waffles.
+
+Dot Points:
+- this 
+- that
+- everything else
+
+Numbered list:
+1. this 
+2. that
+3. everything else
+
+Types of headings: 
+# level 1 heading
+## level 2 heading
+### level 3 heading
+
+To insert an image: 
+![](https://www.rd.com/wp-content/uploads/2019/05/shutterstock_671541538-e1557714950453-1024x632.jpg)
+
+Named link:
+[https://www.google.com/](Google)
+
+Insert equation: 
+$$
+1+1=2
+$$
+
